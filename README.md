@@ -6,4 +6,4 @@ How Does it work?
   - <img width="400" alt="spotify_input" src="https://user-images.githubusercontent.com/104303438/235298682-bdb522ec-21c4-409b-9a3a-2919aec6d8ab.png">
 
 - Output:
-  - <img width="669" alt="spotifyss2" src="https://user-images.githubusercontent.com/104303438/235298690-117be5b6-56cb-4e6f-84a5-b27b4c5e0196.png">
+  - <img width="1000" alt="spotifyss2" src="https://user-images.githubusercontent.com/104303438/235298690-117be5b6-56cb-4e6f-84a5-b27b4c5e0196.png">
