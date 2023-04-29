@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 .env
+spotify_input.png
+spotifyss2.png
